@@ -1,0 +1,4 @@
+# pplAsignments
+
+PPL222 's Course assignments of the CS department @BGU In this course we build an interpreter for L1-L7 programming languages (that based on Scheme language), all of the code was in a "functional programming paradigm" In the assignments we was required to add many features to our L languages or to solve and implement a classic and popular CS problems in the Functional paradigm and Logic programming paradigm Programming Languages we use in this course was: JavaScript, TypeScript, Scheme, Prolog and -as expected- L1 to L7 our grades in the assignments { "Assignment1" : { "grade" : 97, "partner" : "Saker Alkoran", "GitHub" : null }, "Assignment2" : { "grade" : 100, "partner" : "Saker Alkoran", "GitHub" : null }, "Assignment3" : { "grade" : 100, "partner" : "Saker Alkoran", "GitHub" : none}, "Assignment4" : { "grade" : 99, "partner" : "Saker Alkoran", "GitHub" : none }, "Assignment5" : { "grade" : 100, "partner" : "Saker Alkoran", "GitHub" : none } }
+
